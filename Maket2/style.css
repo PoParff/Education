@@ -1,0 +1,212 @@
+.content{
+    max-width: 1366px;
+    margin: auto;
+    display: flex;
+}
+
+.conteiner{
+    font-family: 'Tahoma';
+    font-style: normal;
+    margin-left: 124px;
+    margin-top: 124px;
+    margin-right: 208px;
+} 
+
+.image{
+    margin-top: 70px;
+    margin-left: 73px;
+}
+
+.name{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+
+.author{
+    margin-bottom: 0px;
+    margin-top: 7px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.discription{
+    margin-top: 25.5px;
+    margin-bottom: 0px;
+    width: 556px;
+    height: 108px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.number{
+    margin-top: 68px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 27px;
+    color: #313131;
+}
+
+.buy{
+    border-radius: 5px;
+    border: none;
+    margin-top: 51.5px;
+    width: 175px;
+    height: 67px;
+    background: #F05A22;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.moreinf{
+    border-radius: 5px;
+    margin-left: 40px;
+    width: 287px;
+    height: 67px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.0001);
+    border: 2px solid #F05A22;
+    font-weight: 700;
+    font-size: 24px;
+    color: #F05A22;
+}
+
+.book{
+    width: 404px; 
+    height: 630px;
+}
+
+.dostavka{
+    max-width: 1366px;
+    margin: auto;
+    font-family: 'Tahoma';
+    font-style: normal;
+}
+
+.znachki{
+    max-width: 1366px;
+    margin: auto;
+    display: flex;
+    margin-top: 89.5px;
+    font-family: 'Tahoma';
+    font-style: normal;
+    color: #333333;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.dostandotpr{
+    width: 321px;
+    height: 27px;
+    margin-top: 193.5px;
+    margin-left: 538px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 27px;
+    color: #333333;
+}
+
+.one{
+    margin-left: 136px;
+    align-items: center; 
+    text-align: center;
+}
+
+.telegka{
+    margin-top: 6px;
+    width: 211px;
+    height: 45px;
+}
+
+.two{
+    margin-left: 52px;
+    align-items: center; 
+    text-align: center;
+}
+
+.card{
+    margin-top: 20px;
+    width: 271px;
+    height: 44px;
+}
+
+.three{
+    margin-left: 46px;
+    align-items: center; 
+    text-align: center;
+}
+
+.gruzovik{
+    margin-top: 21px;
+    width: 224px;
+    height: 45px;
+}
+
+.fore{
+    margin-left: 76px;
+    align-items: center; 
+    text-align: center;
+}
+
+.pocht{
+    margin-top: 17px;
+    width: 224px;
+    height: 45px;
+}
+
+.kupili{
+    max-width: 1366px;
+    margin: auto;
+    margin-top: 190.5px;
+}
+
+.stolb{
+    margin-top: 67.5px;
+    margin-left: 120px;
+    width: 216px;
+    display: flex;
+}
+
+.ujekupili{
+    margin-left: 486px;
+    font-family: 'Tahoma';
+    font-style: normal;
+    color: #333333;
+    font-size: 30px;
+    line-height: 27px;
+    width: 413px;
+    height: 27px;
+}
+
+.stolb1{
+    margin-right: 31px;
+}
+
+.stolb2{
+    margin-right: 28px;
+}
+
+.stolb3{
+    margin-right: 34px;
+}
+
+.pik{
+    margin-top: 40px;
+    margin-bottom: 111px;
+}
+
+
+
+
+
