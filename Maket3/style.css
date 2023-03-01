@@ -1,0 +1,114 @@
+@font-face {
+	font-family: 'Proxima Nova Bold';
+	src:url('fonts/proxima_nova_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/proxima_nova_bold.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+    font-weight: 700;
+    font-style: bold;
+}
+
+@font-face {
+	font-family: 'Proxima Nova Light';
+	src:url('fonts/proxima_nova_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/proxima_nova_light.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+    font-weight: 300;
+    font-style: light;
+}
+
+@font-face {
+	font-family: 'Proxima Nova Regular';
+	src:url('fonts/proxima_nova_regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/proxima_nova_regular.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+        font-weight: 400;
+        font-style: normal;
+}
+
+/* Yahoo Reset CSS */
+* {
+  margin:0;
+  padding:0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #F9F9F9;
+}
+
+.content {
+    width: 1139px;
+    position: absolute;
+    left:50%;
+    top: 94px;
+    transform: translate(-50%, -94px)
+  }
+
+.content__title {
+    font-family: 'Proxima Nova Regular';
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 36px;
+    line-height: 44px;
+
+    margin-top: 94px;
+  }
+  
+.content__blocks {
+    margin-top: 125px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .content__block {
+    width: 263px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-between;
+  }
+
+.content__btn{
+    font-family: 'Proxima Nova Regular';
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 0px;
+    width: 200px;
+    height: 50px;
+    background-color: #F9F9F9;
+    border: 1px solid #23BAC1;
+    color: #23BAC1;
+}
+
+.image_background{
+    width: 263px;
+    background-color: #FFFF;
+}
+
+.content__img {
+    max-width:  100%;
+    display: block;
+    margin: 0 auto; 
+  }
+
+  .content__descr{
+    font-family: 'Proxima Nova Regular';
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+  }
+
+  .content__price{
+    font-family: 'Proxima Nova Bold';
+    font-weight: 700;
+    font-style: bold;
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 22px;
+  }
